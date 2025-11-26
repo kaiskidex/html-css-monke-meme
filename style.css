@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+}
+
+.meme {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 30px;
+    font-style: regular;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+#bigtext {
+    color: white;
+    text-transform: uppercase;
+
+} 
+
+#smalltext {
+    color: white;
+}
+
+#monke {
+    border: 5px solid white;
+    width: 100%;
+}
